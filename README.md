@@ -2,9 +2,9 @@
 
 A basic twitter bot that follows the [CIPs repository](https://github.com/cardano-foundation/CIPs) and tweets notable events.
 
-See [x.com/cip_updates](https://x.com/cip_updates).https://developer.x.com/en/portal/dashboard
+See [x.com/cip_updates](https://x.com/cip_updates).
 
-See [developer.x.com](https://developer.x.com/en/portal/dashboard)
+See [developer.x.com](https://developer.x.com/en/portal/dashboard).
 
 ## Aims
 
